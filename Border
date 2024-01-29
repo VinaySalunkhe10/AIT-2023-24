@@ -1,0 +1,43 @@
+               <!DOCTYPE html>
+               <html lang="en">
+               <head>
+                <meta charset="UTF-8">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                <title>Border</title>
+                <style>
+                       h1
+                       {border: 1px solid blanchedalmond;
+                        text-align: center;
+                        background-color: cadetblue;
+
+                       }
+                       h2{
+                        border: 1px dotted crimson;
+                        text-align: center;
+                        background-color: blueviolet;
+                       }
+                       h3{
+                        border: 1px dashed red;
+
+                       }
+                       h4{
+                        border: 2px groove blueviolet;
+                       }
+                       h5{border: 1px ridge crimson      ;
+
+                       }
+                       h6{
+                        border: none;
+                       }
+
+                </style>
+               </head>
+               <body>        
+                <h1>Welcome To HTML</h1>               
+                   <h2>Hii Everyone ! </h2> 
+                   <h3>HTML CSS  JAVASCRIPT  PYTHON</h3>
+                   <h4>HTML stands for Hyper Text Markup Language</h4>
+                   <h5>Hyper Text Markup Language </h5>
+                   <h6>Hyper Text Markup Language</h6>
+               </body>
+               </html>
